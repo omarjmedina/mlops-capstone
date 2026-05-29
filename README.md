@@ -19,6 +19,12 @@ The project demonstrates a complete machine learning lifecycle using Databricks 
 mlops-capstone/
 ├── dev/
 │   ├── notebooks/
+│   │   ├── 01_data_ingestion_eda
+│   │   └── 02_train_track_register
 │   └── data/
+│       └── README.md
+├── docs/
+│   └── architecture.md
 ├── prod/
-└── docs/
+│   └── README.md
+└── README.md
